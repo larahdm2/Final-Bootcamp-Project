@@ -21,7 +21,9 @@ Please remember, always consult a doctor for professional medical advice and dia
    <h2>Description</h2>
   </summary>
 <p>
-The input images are from the HAM 10000 dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T. Due to computer memory constraints, I divided the dataset into three subsets: one for modeling black and white images, another for modeling RGB images, and the third one for testing both.
+The input images are from the HAM 10000 dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T. 
+<p>
+Due to computer memory constraints, I divided the dataset into three subsets: one for modeling black and white images, another for modeling RGB images, and the third one for testing both.
 <p>
 The project requirements included web scraping, and I also incorporated insights from the World Health Organization webpage.
 <p>
