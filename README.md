@@ -8,7 +8,7 @@
 <p>
 The aim of this project is to develop a predictive model that determines whether a skin lesion is benign or malignant.
 <p>
-This project holds personal significance for me, as I witnessed a close family member's misdiagnosis and subsequent loss. It is my hope that eventually, we can develop a user-friendly application capable of accurately identifying all types of skin lesions in a timely manner.
+This project holds personal significance for me, as I witnessed a close family member's misdiagnosis and subsequent loss. It is my hope that eventually, we can develop a user-friendly application capable of identifying malignant skin lesions in a timely manner.
 This model currently achieves a 90% recall rate in identifying malignant lesions.
 <p>
 Please remember, always consult a doctor for professional medical advice and diagnosis.
