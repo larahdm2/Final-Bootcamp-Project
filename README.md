@@ -3,6 +3,8 @@
 
 # FBP | Skin Cancer Prediction
 
+![fbp-image-4](https://github.com/larahdm2/Final-Bootcamp-Project/assets/138598135/616e77fd-242b-442d-9e97-a97f39b1dd72)
+
 <p>
 The aim of this project is to develop a predictive model that determines whether a skin lesion is benign or malignant.
 <p>
@@ -23,9 +25,7 @@ The input images are from the HAM 10000 dataset: https://dataverse.harvard.edu/d
 <p>
 The project requirements included web scraping, and I also incorporated insights from the World Health Organization webpage.
 <p>
- 
-<br>
-<hr> 
+  
 
 </details>
 
@@ -40,5 +40,4 @@ The project requirements included web scraping, and I also incorporated insights
   The first notebook contains explanations regarding image processing, modeling, and conclusions. Since the image dataset is quite large, I kindly request that you download the images from the main source. During the process, I also created and saved arrays, which are also heavy, so I won't be uploading them either. However, if you wish to test the models, you can upload the attached model files.
    <p>
   This is the link to the Tableau work:
-< p>
   https://public.tableau.com/shared/5WFDHTKNG?:display_count=n&:origin=viz_share_link
