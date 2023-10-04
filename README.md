@@ -3,6 +3,7 @@
 
 # FBP | Skin Cancer Prediction
 
+![fbp-image-4](https://github.com/larahdm2/Final-Bootcamp-Project/assets/138598135/fc5b6447-66a9-4765-90de-fe061ad37cd1)
 
 <p>
 The aim of this project is to develop a predictive model that determines whether a skin lesion is benign or malignant.
